@@ -1,0 +1,5 @@
+[
+  { "name": "John Doe", "email": "john@test.com", "age": 25 },
+  { "name": "", "email": "wrongemail", "age": 10 },
+  { "name": "A", "email": "a@test.com", "age": 17 }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "event-management",
+  "version": "1.0.0",
+  "description": "Capstone B project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}

@@ -1,0 +1,12 @@
+[
+  { "name": "John Doe", "email": "john@test.com", "age": 25 },
+  { "name": "Jane Smith", "email": "jane@test.com", "age": 30 },
+
+  { "name": "", "email": "empty@test.com", "age": 22 },
+  { "name": "Bad Email", "email": "wrongemail", "age": 20 },
+  { "name": "Too Young", "email": "young@test.com", "age": 15 },
+  { "name": "Too Old", "email": "old@test.com", "age": 130 },
+  { "name": "No Email", "email": "", "age": 40 },
+  { "name": "Spaces", "email": "   ", "age": 35 },
+  { "name": "Duplicate", "email": "john@test.com", "age": 28 }
+]
